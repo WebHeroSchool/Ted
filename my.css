@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Inconsolata:wght@600&display=swap');
+.title{
+  font-family: 'Inconsolata', monospace;
+}
+.header, .main{
+   font-family: 'Dancing Script', cursive;  
+}
+
